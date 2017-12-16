@@ -1,4 +1,4 @@
-# haar_cascades
+# Haar Cascades
 public haar cascades for anyone to use
 
 ## Soccer Ball Cascade
